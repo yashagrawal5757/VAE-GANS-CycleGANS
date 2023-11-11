@@ -25,7 +25,7 @@ This project demonstrates a detailed implementation of **Variational Auto Encode
 
 #### VAE Model Qualitative Anlaysis
 
-<img src="results/vae qualitative result1.png" align="left" height="500" width="400" > </img> <br><br><br><br><br><br><br><br><br>
+<img src="results/vae qualitative result1.png" align="left" height="500" width="400" > </img> 
 
 
 
