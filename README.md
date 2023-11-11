@@ -17,7 +17,7 @@ This project demonstrates a detailed implementation of **Variational Auto Encode
 
 #### VAE Architecture
 
-<img src="results/vae architecture.png" align="left" height="300" width="500" ></img> <br><br><br><br><br><br><br><br><br><br><br>
+<img src="results/vae architecture.png"  height="300" width="500" ></img> <br><br><br><br><br><br><br><br><br><br><br>
 
 #### VAE Model plots
 
@@ -25,7 +25,7 @@ This project demonstrates a detailed implementation of **Variational Auto Encode
 
 #### VAE Model Qualitative Anlaysis
 
-<img src="results/vae qualitative result1.png" align="left" height="500" width="400" > </img> 
+<img src="results/vae qualitative result1.png" align="left" height="500" width="400" > </img> <br><br><br><br><br><br><br><br><br>
 
 
 
