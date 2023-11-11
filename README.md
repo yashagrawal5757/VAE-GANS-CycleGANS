@@ -5,22 +5,29 @@ In the project I have implemented **Variational Auto Encoders (VAE), Generative 
 ### VAE Implementation
 
 <img src="results/vae defn.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/vae architecture.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/vae plots.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/vae qualitative result1.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/vae qualitative result2.png" align="left" height="300" width="400" > <br><br><br>
 
-<br>
+<img src="results/vae architecture.png" align="left" height="300" width="500" > <br><br><br>
+
+<img src="results/vae plots.png" align="left" height="300" width="500" > <br><br><br>
+
+<img src="results/vae qualitative result1.png" align="left" height="500" width="400" > <br><br><br>
+
+<img src="results/vae qualitative result2.png" align="left" height="400" width="400" > <br><br><br>
+
 ### GAN Implementation
 
-<img src="results/GAN defn.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/GAN architecture.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/GAN plot.png" align="left" height="300" width="400" > <br><br><br>
-<img src="results/GAN results.png" align="left" height="300" width="400" > <br><br><br>
+<img src="results/GAN defn.png" align="left" height="300" width="500" > <br><br><br>
 
-<br>
+<img src="results/GAN architecture.png" align="left" height="300" width="500" > <br><br><br>
+
+<img src="results/GAN plot.png" align="left" height="300" width="500" > <br><br><br>
+
+<img src="results/GAN results.png" align="left" height="300" width="500" > <br><br><br>
+
 ### Cycle GAN Implementation
 
 <img src="results/Cyclegan defn.png" align="left" height="300" width="600" > <br><br><br>
-<img src="results/Cyclegan plots.png" align="left" height="300" width="600" > <br><br><br>
-<img src="results/Cyclegan qualitative results.png" align="left" height="300" width="600" > <br><br><br>
+
+<img src="results/Cyclegan plots.png" align="left" height="300" width="500" > <br><br><br>
+
+<img src="results/Cyclegan qualitative results.png" align="left" height="300" width="500" > <br><br><br>
