@@ -1,0 +1,29 @@
+Homework 5 CIS 680
+
+<p align="justify">
+In the project I have implemented Variational Auto Encoders (VAE), Generative Adversarial Networks (GAN) and CycleGAN from scratch using Pytorch.
+
+ You can go through the report to understand the parameter tuning process. One can go through the notebooks to understand the code or alternatively see below to understand the results.
+
+### VAE Implementation
+
+<img src="results/vae defn.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/vae architecture.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/vae plots.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/vae qualitativeresult1.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/vae qualitativeresult2.png" align="left" height="300" width="600" > <br><br><br>
+
+
+### GAN Implementation
+
+<img src="results/GAN defn.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/GAN architecture.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/GAN plot.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/GAN results.png" align="left" height="300" width="600" > <br><br><br>
+
+
+### GAN Implementation
+
+<img src="results/Cyclegan defn.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/Cyclegan plots.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/Cyclegan qualitative results.png" align="left" height="300" width="600" > <br><br><br>
