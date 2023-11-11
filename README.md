@@ -1,5 +1,4 @@
-<p align="justify">
-In the project I have implemented ** Variational Auto Encoders (VAE), Generative Adversarial Networks (GAN) and CycleGAN ** from scratch using Pytorch.
+In the project I have implemented **Variational Auto Encoders (VAE), Generative Adversarial Networks (GAN) and CycleGAN** from scratch using Pytorch.
 
  You can go through the report to understand the parameter tuning process. One can go through the notebooks to understand the code or alternatively see below to understand the results.
 
