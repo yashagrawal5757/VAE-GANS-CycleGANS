@@ -13,11 +13,11 @@ This project demonstrates a detailed implementation of **Variational Auto Encode
 
 #### VAE Idea
 
-<img src="results/vae defn.png" height="300" width="400" ></img> <br><br>
+<img src="results/vae defn.png" height="400" width="600" ></img> <br><br>
 
 #### VAE Architecture
 
-<img src="results/vae architecture.png"  height="300" width="500" ></img> <br><br>
+<img src="results/vae architecture.png"  height="400" width="600" ></img> <br><br>
 
 #### VAE Model plots
 
@@ -25,7 +25,7 @@ This project demonstrates a detailed implementation of **Variational Auto Encode
 
 #### VAE Model Qualitative Anlaysis
 
-<img src="results/vae qualitative result1.png"  height="500" width="400" > </img> <br><br>
+<img src="results/vae qualitative result1.png"  height="500" width="700" > </img> <br><br>
 
 
 ### GAN Implementation
@@ -55,11 +55,11 @@ This project demonstrates a detailed implementation of **Variational Auto Encode
 
 #### CycleGAN Idea
 
-<img src="results/Cyclegan defn.png"  height="300" width="700" > </img><br>
+<img src="results/Cyclegan defn.png"  height="300" width="1000" > </img><br>
 
 #### CycleGAN Plots
 
-<img src="results/Cyclegan plots.png" height="400" width="600" > </img><br><br>
+<img src="results/Cyclegan plots.png" height="400" width="800" > </img><br><br>
 
 
 
